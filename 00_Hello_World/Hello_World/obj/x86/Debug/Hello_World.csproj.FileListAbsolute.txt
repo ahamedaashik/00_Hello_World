@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Form1.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\Hello_World.Properties.Resources.resources
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\bin\Debug\Hello_World.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\bin\Debug\Hello_World.pdb
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\Hello_World.exe
+C:\Users\Student\Desktop\0019_Aashik\C#\Form_Applications\Hello_World\Hello_World\obj\x86\Debug\Hello_World.pdb
